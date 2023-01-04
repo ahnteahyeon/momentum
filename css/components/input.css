@@ -1,0 +1,9 @@
+.momentum-input {
+  padding-bottom: 10px;
+  height: 50px;
+  font-size: 45px;
+  color: var(--white-color);
+  text-align: center;
+  border-bottom: 3px solid var(--white-color);
+  caret-color: var(--white-color);
+}
